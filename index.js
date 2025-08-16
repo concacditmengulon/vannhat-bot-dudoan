@@ -5,8 +5,8 @@ const path = require('path');
 const moment = require('moment-timezone');
 
 // ====== CẤU HÌNH ======
-const BOT_TOKEN = "7565401319:AAFEYYv8aJBTO8Wf_P0V9q0DC6txTw3gRq4";
-const ADMIN_ID = 8113902500;
+const BOT_TOKEN = "7751217253:AAHYIOAF0HMufS9sm5soBgjOjdIy1XwyILg";
+const ADMIN_ID = 6781092017;
 const DATA_FILE = "data.json";
 const STATS_FILE = "stats.json";
 const API_URL = "https://admin-vannhat-sunpredict.onrender.com/api/du-doan";
