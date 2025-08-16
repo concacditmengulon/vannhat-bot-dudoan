@@ -1,15 +1,13 @@
 {
-  "name": "sunwin-bot-pro",
+  "name": "sunwin-bot",
   "version": "1.0.0",
-  "description": "A Telegram bot for Sunwin predictions",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.7.2",
-    "express": "^4.19.2",
-    "node-schedule": "^2.1.1",
-    "telegraf": "^4.16.3"
+    "node-fetch": "^3.3.2",
+    "form-data": "^4.1.0"
   }
 }
